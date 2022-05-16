@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(157, 157, 245);
+}
+
+button {
+  background-color: white;
+  border: none;
+  padding: 5px;
+  border-radius: 4px;
+}
+
+button:hover {
+  transition-duration: .3s;
+  background-color: lightgreen
+}
+
+button:active {
+  background-color: rgb(6, 180, 6);
+}
+.quote {
+  padding-top: 100px;
+}
+
+.frame {
+  width: 363px;
+  height: 200px;
+}
+
+.dog {
+  width: 363px;
+  height: 200px;
+}

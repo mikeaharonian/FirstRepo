@@ -1,0 +1,1 @@
+alert.pause ("Welcome to my first website")
